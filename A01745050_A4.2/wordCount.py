@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 
 
 from __future__ import annotations
@@ -91,7 +90,7 @@ def main(argv: Optional[List[str]] = None) -> int:
     print(output_text, end="")
 
     try:
-        with open("ConvertionResults.txt", "a", encoding="utf-8") as f:
+        with open("wordCountResults.txt", "a", encoding="utf-8") as f:
             f.write("\n" + "=" * 60 + "\n")
             f.write(f"Input file: {input_path}\n")
             f.write(output_text)
