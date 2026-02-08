@@ -1,0 +1,101 @@
+
+============================================================
+Input file: test_cases\P1\TC1.txt
+Descriptive Statistics
+------------------------
+Count: 400
+Mean: 242.32
+Median: 239.5
+Mode: 170.0
+Population Std Dev: 145.25810683056557
+Population Variance: 21099.917599999997
+
+Elapsed time: 0.000755 seconds
+
+============================================================
+Input file: test_cases\P1\TC2.txt
+Descriptive Statistics
+------------------------
+Count: 1977
+Mean: 250.7840161861406
+Median: 247.0
+Mode: 230.0
+Population Std Dev: 144.17131868884059
+Population Variance: 20785.369132479238
+
+Elapsed time: 0.001525 seconds
+
+============================================================
+Input file: test_cases\P1\TC3.txt
+Descriptive Statistics
+------------------------
+Count: 12624
+Mean: 249.77621989860583
+Median: 249.0
+Mode: 94.0
+Population Std Dev: 145.31784980917962
+Population Variance: 21117.27747316329
+
+Elapsed time: 0.005278 seconds
+
+============================================================
+Input file: test_cases\P1\TC4.txt
+Descriptive Statistics
+------------------------
+Count: 12624
+Mean: 149.00267347908746
+Median: 147.75
+Mode: 123.75
+Population Std Dev: 130.41441961308894
+Population Variance: 17007.920843018837
+
+Elapsed time: 0.006784 seconds
+
+============================================================
+Input file: test_cases\P1\TC5.txt
+Descriptive Statistics
+------------------------
+Count: 307
+Mean: 241.49511400651465
+Median: 241.0
+Mode: 11.0
+Population Std Dev: 145.46484786056646
+Population Variance: 21160.021963097748
+
+Errors (invalid tokens were ignored):
+Line 5: invalid number -> 'ABA'
+Line 155: invalid number -> '23,45'
+Line 232: invalid number -> '11;54'
+Line 239: invalid number -> 'll'
+
+Elapsed time: 0.000977 seconds
+
+============================================================
+Input file: test_cases\P1\TC6.txt
+Descriptive Statistics
+------------------------
+Count: 3000
+Mean: 1.8790659927977473e+20
+Median: 1.88008049965543e+20
+Mode: N/A
+Population Std Dev: 1.0738205017381e+20
+Population Variance: 1.1530904699530647e+40
+
+Elapsed time: 0.002272 seconds
+
+============================================================
+Input file: test_cases\P1\TC7.txt
+Descriptive Statistics
+------------------------
+Count: 12767
+Mean: 2.474673954997149e+20
+Median: 2.4664097307429e+20
+Mode: N/A
+Population Std Dev: 1.4460564700984703e+20
+Population Variance: 2.0910793147136484e+40
+
+Errors (invalid tokens were ignored):
+Line 183: invalid number -> 'ABBA'
+Line 229: invalid number -> 'ERROR'
+
+Elapsed time: 0.008448 seconds
